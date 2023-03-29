@@ -1,2 +1,2 @@
-# qa-portfolio
+# QA Portfolio
 QA Portfolio
